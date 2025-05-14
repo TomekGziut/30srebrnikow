@@ -2,12 +2,14 @@
 (nie dałem .enva)
 ## 1. Weź to sklonuj
 ## 2. Terminal odpal
-## 3. Upewnij się że jesteś w folderze JUDAS
-## 3,5. Jak nie to wpisz `cd JUDAS`
-## 4. Masz .env.example, wpisz tam dane do mongo i klucz JWT
-## 5. Odpal terminal i wpisz `copy .env.example .env`
-## 6. Wpisz do tego terminala coś takiego `docker-compose up --build`
-## 7. Módl się żeby zadziałało
+## 3. Upewnij się że jesteś w folderze 30srebrnikow
+## 3,5. Jak nie to wpisz `cd 30srebrnikow`
+## 4. `Wpisz cd backend`
+## 5. Masz .env.example, odpal terminal i wpisz `copy .env.example .env`
+## 6. Stworzy ci się .env, wpisz tam dane do mongo i klucz JWT
+## 7. Wpisz w terminal `cd ..` tak żeby wrócić do folderu 30srebrnikow
+## 8. Wpisz do tego terminala coś takiego `docker-compose up --build`
+## 9. Módl się żeby zadziałało
 
 ### Wymagania to jakieś:
 - Docker
